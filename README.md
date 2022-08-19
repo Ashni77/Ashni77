@@ -1,8 +1,8 @@
 # Hi there, I am Ashni 👋
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Ashni77&hide=contribs,stars&show_icons=true&theme=radical" />
+<img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=Ashni77&hide=contribs,stars&show_icons=true&theme=radical" />
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashni77&layout=compact" />
+<img align="left" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashni77&layout=compact" />
 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
